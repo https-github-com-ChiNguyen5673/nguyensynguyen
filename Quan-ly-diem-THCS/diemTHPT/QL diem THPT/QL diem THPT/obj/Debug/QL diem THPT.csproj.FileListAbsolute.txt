@@ -1,0 +1,188 @@
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.exe
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.pdb
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csprojAssemblyReference.cache
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmDangNhap.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmDoiMK.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmHienThiDSHSLop.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmMain.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmPhanCong.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaGV.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaHS.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaLop.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaMH.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemGV.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemHS.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemLop.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemMH.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaGV.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaHS.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaLop.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaMH.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Properties.Resources.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csproj.GenerateResource.cache
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csproj.CoreCompileInputs.cache
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.exe.config
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.exe
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.pdb
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemHSDSLop.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDSHSLop.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaHSDSLop.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemMH.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemTKHK.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemMH.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemTKHK.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemTKNH.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemTKNH.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemMH.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemTKHK.resources
+F:\huan\Thuc tap nhom chieu thu 4\QL HS-GV\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemTKNH.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.exe.config
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.exe
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.pdb
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.exe
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.pdb
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csprojResolveAssemblyReference.cache
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmDangNhap.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemMH.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemTKHK.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemTKNH.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemMH.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmDoiMK.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmHienThiDSHSLop.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmMain.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmPhanCong.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDSHSLop.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaGV.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaHS.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaLop.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaMH.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemTKHK.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemTKNH.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemGV.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemHS.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemHSDSLop.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemLop.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemMH.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemMH.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemTKHK.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemTKNH.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaGV.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaHS.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaHSDSLop.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaLop.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaMH.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Properties.Resources.resources
+C:\Users\Hai-Dong\Downloads\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csproj.GenerateResource.Cache
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.exe.config
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.exe
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.pdb
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.exe
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.pdb
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csprojResolveAssemblyReference.cache
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmDangNhap.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemMH.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemTKHK.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemTKNH.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemMH.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmDoiMK.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmHienThiDSHSLop.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmMain.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmPhanCong.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDSHSLop.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaGV.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaHS.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaLop.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaMH.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemTKHK.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemTKNH.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemGV.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemHS.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemHSDSLop.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemLop.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemMH.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemMH.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemTKHK.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemTKNH.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaGV.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaHS.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaHSDSLop.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaLop.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaMH.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Properties.Resources.resources
+C:\Users\Hai-Dong\Documents\GitHub\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csproj.GenerateResource.Cache
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.exe
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.pdb
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.exe.config
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.exe
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.pdb
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csprojAssemblyReference.cache
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmDangNhap.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemMH.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemTKHK.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemTKNH.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemMH.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmDoiMK.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmHienThiDSHSLop.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmMain.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmPhanCong.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDSHSLop.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaGV.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaHS.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaLop.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaMH.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemTKHK.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemTKNH.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemGV.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemHS.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemHSDSLop.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemLop.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemMH.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemMH.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemTKHK.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemTKNH.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaGV.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaHS.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaHSDSLop.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaLop.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaMH.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Properties.Resources.resources
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csproj.GenerateResource.cache
+D:\ứng dụng\thuctaapnhom\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csproj.CoreCompileInputs.cache
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.exe.config
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.exe
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\bin\Debug\QL diem THPT.pdb
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csprojAssemblyReference.cache
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmDangNhap.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemMH.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemTKHK.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDiemTKNH.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemMH.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmDoiMK.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmHienThiDSHSLop.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmMain.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmPhanCong.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaDSHSLop.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaGV.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaHS.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaLop.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmSuaMH.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemTKHK.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemDiemTKNH.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemGV.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemHS.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemHSDSLop.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemLop.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmThemMH.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemMH.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemTKHK.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaDiemTKNH.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaGV.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaHS.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaHSDSLop.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaLop.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Main.frmXoaMH.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL_diem_THPT.Properties.Resources.resources
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csproj.GenerateResource.cache
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.csproj.CoreCompileInputs.cache
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.exe
+D:\ứng dụng\thuctaapnhom\nguyensynguyen\Quan-ly-diem-THCS\diemTHPT\QL diem THPT\QL diem THPT\obj\Debug\QL diem THPT.pdb
